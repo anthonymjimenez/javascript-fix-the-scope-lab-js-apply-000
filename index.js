@@ -15,8 +15,7 @@ function yourAnimal() {
   return animal
 }
 
-const two = 2
-function add2(n, two){ return n + two }
+function add2(n){ return n + 2 }
 
   // Feel free to move things around!
 
