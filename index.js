@@ -14,9 +14,9 @@ function yourAnimal() {
   var animal = 'cat'
   return animal
 }
-const two = 2
 
-function add2(n, two){ return n + 2 }
+const two = 2
+function add2(n, two){ return n + two }
 
   // Feel free to move things around!
 
